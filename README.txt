@@ -1,36 +1,40 @@
-Landed by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+---------------------------
+What & Why Drifolio?
+---------------------------
+Drifolio - stands for Dribbble Portfolio.
 
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+There are many designers around me don't have enough time to setup and manage their own website.
+For them it could be a great template that needs one time setup.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+You just need to set your info and dribbble username, that's all.
+And after that, whenever you post something on dribbble, it'll come automatically to your website as well.
+There's nothing to do there again :)
 
-(* = Not included)
+This is a free Bootstrap powered HTML template from EvenFly. Feel free to download,
+modify and use it for yourself or your clients as long there is no money involved.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Please don't try to sale it from anywhere; because I want it to be free, forever. If sale it,
+that's me who deserves the money, not you :)
 
-AJ
-n33.co @n33co dribbble.com/n33
+---------------------------
+How to edit/setup
+---------------------------
+Here is a short documentetion about basic changes on the template
+http://goo.gl/FhmJav
+
+Feel free to drop an email to support@evenfly.com
+if you have any question/suggestions.
 
 
-Credits:
+---------------------------
+THANKS!
+---------------------------
+If you like this template, you may like our other products as well.
+Keep your eyes on
 
-	Demo Images:
-		Unsplash (unsplash.com)
+http://evenfly.com
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		skel (getskel.com)
+Or follow us on
+https://www.facebook.com/evenflyteam
+https://twitter.com/EvenFlyTeam
