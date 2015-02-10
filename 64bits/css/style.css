@@ -1,8 +1,8 @@
 body {
-	background: #fff;
+	background: #444;
 	font-family: 'Oxygen', sans-serif;
 	font-weight: 400;
-	color: #353b42;
+	color: #dddddd;
 }
 
 .wrapper {
@@ -67,7 +67,8 @@ header form input[type=button]:hover {
 }
 
 #banner {
-	background: #f4f7f9;
+	background: #3c3c3c;
+	/* background: #f4f7f9; */
 	height: 360px;
 }
 
@@ -78,7 +79,8 @@ header form input[type=button]:hover {
 #banner h2 {
 	font-size: 3.6em;
 	font-weight: 300;
-	color: #ff4e00;
+	/* color: #ff4e00; */
+	color: #cccccc;
 	padding-top: 60px;
 }
 
@@ -87,10 +89,35 @@ header form input[type=button]:hover {
 	font-weight: 300;
 }
 
+#banner a.downloadplay {
+	display: block;
+	width: 160px;
+	background: #44aa44 url(../images/icn-play-store.png) no-repeat center left;
+	background-position: 20px 16px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 1.5em;
+	padding: 5px 10px 15px 80px;
+	line-height: 1;
+	margin: 20px 0 0 0;
+}
+
+#banner a.downloadplay:hover {
+	background-color: #88ff88;
+}
+
+#banner a.downloadplay:active {
+	background-color: #222222;
+}
+
+#banner a.downloadplay span {
+	font-size: 0.7em;
+}
+
 #banner a.download {
 	display: block;
 	width: 160px;
-	background: #ff4e00 url(../images/icn-app-store.png) no-repeat center left;
+	background: #44aa44 url(../images/icn-app-store.png) no-repeat center left;
 	background-position: 20px 16px;
 	color: #fff;
 	text-decoration: none;
@@ -101,11 +128,11 @@ header form input[type=button]:hover {
 }
 
 #banner a.download:hover {
-	background-color: #ff814a;
+	background-color: #88ff88;
 }
 
 #banner a.download:active {
-	background-color: #c63d00;
+	background-color: #222222;
 }
 
 #banner a.download span {
@@ -122,7 +149,7 @@ header form input[type=button]:hover {
 	-webkit-box-shadow: 0 1px 7px rgba(0,0,0,.4);
 	-moz-box-shadow: 0 1px 7px rgba(0,0,0,.4);
 	box-shadow: 0 1px 7px rgba(0,0,0,.4);
-	border: solid 3px #fff;
+	border: solid 3px #aaa;
 	padding-bottom: -5px;
 }
 
@@ -135,7 +162,7 @@ header form input[type=button]:hover {
 }
 
 #feature-section h3 {
-	color: #ff4e00;
+	color: #44ff44;
 	font-weight: 300;
 	font-size: 1.8em;
 	padding: 100px 0 10px 0;
@@ -178,7 +205,7 @@ header form input[type=button]:hover {
 }
 
 .feature-left {
-	background: #fff;
+	background: #888;
 }
 
 .feature-right {
@@ -245,7 +272,7 @@ footer .copyright {
 }
 
 footer .copyright strong {
-	color: #ff4e00;
+	color: #44cc44;
 }
 
 
