@@ -275,6 +275,10 @@ footer .copyright strong {
 	color: #44cc44;
 }
 
+footer .copyright attribution {
+	color: #cccccc;
+}
+
 
 @media all and (max-width: 1024px){
 	#banner .video {
