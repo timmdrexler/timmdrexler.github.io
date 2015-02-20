@@ -1,8 +1,8 @@
 body {
-	background: #444;
+	background: #D7C67F;/* Footer Background */
 	font-family: 'Oxygen', sans-serif;
 	font-weight: 400;
-	color: #dddddd;
+	color: #260C4E;/* Font Color */
 }
 
 .wrapper {
@@ -66,8 +66,8 @@ header form input[type=button]:hover {
 	background: #f4f7f9;
 }
 
-#banner {
-	background: #3c3c3c;
+#banner {/* Top Section */
+	background: #6350DF;
 	/* background: #f4f7f9; */
 	height: 360px;
 }
@@ -76,11 +76,11 @@ header form input[type=button]:hover {
 	float: left;
 }
 
-#banner h2 {
+#banner h2 {/* App Title */
 	font-size: 3.6em;
 	font-weight: 300;
 	/* color: #ff4e00; */
-	color: #cccccc;
+	color: #1D1361;
 	padding-top: 60px;
 }
 
@@ -89,10 +89,10 @@ header form input[type=button]:hover {
 	font-weight: 300;
 }
 
-#banner a.downloadplay {
+#banner a.downloadplay {/* Android Button */
 	display: block;
 	width: 160px;
-	background: #44aa44 url(../images/icn-android.png) no-repeat center left;
+	background: #423596 url(../images/icn-android.png) no-repeat center left;
 	background-position: 20px 16px;
 	color: #fff;
 	text-decoration: none;
@@ -103,7 +103,7 @@ header form input[type=button]:hover {
 }
 
 #banner a.downloadplay:hover {
-	background-color: #55cc55;
+	background-color: #4E3EB9;
 }
 
 #banner a.downloadplay:active {
@@ -114,10 +114,10 @@ header form input[type=button]:hover {
 	font-size: 0.7em;
 }
 
-#banner a.download {
+#banner a.download {/* Apple Button */
 	display: block;
 	width: 160px;
-	background: #44aa44 url(../images/icn-apple.png) no-repeat center left;
+	background: #423596 url(../images/icn-apple.png) no-repeat center left;
 	background-position: 20px 16px;
 	color: #fff;
 	text-decoration: none;
@@ -128,7 +128,7 @@ header form input[type=button]:hover {
 }
 
 #banner a.download:hover {
-	background-color: #55cc55;
+	background-color: #4E3EB9;
 }
 
 #banner a.download:active {
@@ -161,8 +161,8 @@ header form input[type=button]:hover {
 	min-height: 500px;
 }
 
-#feature-section h3 {
-	color: #44ff44;
+#feature-section h3 {/* Section 2 Title */
+	color: #3725AA;
 	font-weight: 300;
 	font-size: 1.8em;
 	padding: 100px 0 10px 0;
@@ -204,8 +204,8 @@ header form input[type=button]:hover {
 	transition: all 1s ease-in-out;
 }
 
-.feature-left {
-	background: #888;
+.feature-left {/* Section 2 background */
+	background: #FFF0AF;
 }
 
 .feature-right {
@@ -271,12 +271,12 @@ footer .copyright {
 	margin-bottom: 40px;
 }
 
-footer .copyright strong {
-	color: #44cc44;
+footer .copyright strong {/* website link */
+	color: #1D1361;
 }
 
-footer .copyright attribution {
-	color: #cccccc;
+footer .copyright attribution {/* medialoot link */
+	color: #260C4E;
 }
 
 
